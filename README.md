@@ -6,31 +6,34 @@ This project analyzes **weather data** (temperature, humidity, and rainfall) usi
 
 Weather Data Analysis
 
-├── main_program
-│   ├── main.py                        # Main script for data processing & visualization
-│   ├── humidity_temperature.py        # Analyzes humidity and temperature together
-│   ├── rainfall_visualizations.py     # Analyzes & plots rainfall data
-│   ├── rainfall_temperature.py        # Analyzes rainfall & temperature trends together
-│   ├── temperature_visualizations.py  # Analyzes & plots temperature trends
-│
-├── plotting_images                    # Contains all saved plots
-│   ├── humidity_plot.png               # Humidity visualization
-│   ├── rainfall_plot.png               # Rainfall visualization
-│   ├── temperature_plot.png            # Temperature visualization
-│   ├── temperature_rainfall_plot.png   # Combined temperature & rainfall visualization
-│
-├── jupyter_lab                         # Contains Jupyter Notebook versions of the scripts
-│   ├── weather_data.ipynb
-│   ├── temperature_visualizations.ipynb
-│   ├── rainfall_visualizations.ipynb
-│   ├── humidity_visualizations.ipynb
-│   ├── temperature_rainfall_visualizations.ipynb
-│
-├── weather_data.csv                     # Weather dataset (Temperature, Humidity, Rainfall)
-├── README.md                            # Project documentation
+## 📂 Project Structure
 
+```
+Weather Data Analysis  
+├── 📁 main_program                   # Contains Python scripts for analysis  
+│   ├── main.py                        # Main script for data processing & visualization  
+│   ├── humidity_temperature.py        # Analyzes humidity and temperature together  
+│   ├── rainfall_visualizations.py     # Analyzes & plots rainfall data  
+│   ├── rainfall_temperature.py        # Analyzes rainfall & temperature trends together  
+│   ├── temperature_visualizations.py  # Analyzes & plots temperature trends  
+│  
+├── 📁 plotting_images                 # Contains all saved plots  
+│   ├── humidity_plot.png               # Humidity visualization  
+│   ├── rainfall_plot.png               # Rainfall visualization  
+│   ├── temperature_plot.png            # Temperature visualization  
+│   ├── temperature_rainfall_plot.png   # Combined temperature & rainfall visualization  
+│  
+├── 📁 jupyter_lab                      # Contains Jupyter Notebook versions of the scripts  
+│   ├── weather_data.ipynb  
+│   ├── temperature_visualizations.ipynb  
+│   ├── rainfall_visualizations.ipynb  
+│   ├── humidity_visualizations.ipynb  
+│   ├── temperature_rainfall_visualizations.ipynb  
+│  
+├── weather_data.csv                     # Weather dataset (Temperature, Humidity, Rainfall)  
+├── README.md                            # Project documentation  
+```
 
----
 
 ## 🚀 Features  
 

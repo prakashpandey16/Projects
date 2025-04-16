@@ -27,10 +27,10 @@ Welcome to my collection of data and programming projects! This folder contains 
 - **Status**: ✅ Completed
 
 ---
-
 ## 📫 Contact Me
-- **LinkedIn**: [Prakash Pandey](https://www.linkedin.com/in/prakash-pandey-1234)
-- **GitHub**: [@prakashpandey123](https://github.com/prakashpandey123) *(Replace with actual username if different)*
+- **LinkedIn**: [Prakash Pandey](https://www.linkedin.com/in/prakash-pandey-2827522b1/)
+
+
 
 ---
 
